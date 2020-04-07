@@ -11,6 +11,7 @@
 
     <modules>
         <module>serenity-junit</module>
+        <module>serenity-cucumber</module>
     </modules>
 
     <properties>
