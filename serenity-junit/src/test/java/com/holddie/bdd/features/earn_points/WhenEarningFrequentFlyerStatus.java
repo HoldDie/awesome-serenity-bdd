@@ -1,4 +1,4 @@
-package com.holddie.bdd.features;
+package com.holddie.bdd.features.earn_points;
 
 import com.holddie.bdd.steps.TravellerEarningStatusPointsSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;

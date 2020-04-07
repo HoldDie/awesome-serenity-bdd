@@ -1,4 +1,4 @@
-package com.holddie.bdd.features;
+package com.holddie.bdd.features.math_wiz;
 
 import com.holddie.bdd.steps.MathWizSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;

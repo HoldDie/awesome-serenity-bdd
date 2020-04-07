@@ -1,4 +1,4 @@
-package com.holddie.bdd.features;
+package com.holddie.bdd.features.searching;
 
 import com.holddie.bdd.pages.BaiDuPage;
 import jdk.nashorn.internal.ir.annotations.Ignore;
