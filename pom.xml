@@ -6,7 +6,25 @@
 
     <groupId>com.holddie.bdd</groupId>
     <artifactId>awesome-serenity-bdd</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>serenity-junit</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <serenity.version>2.2.0</serenity.version>
+        <serenity.maven.version>2.2.0</serenity.maven.version>
+        <serenity.cucumber.version>2.2.0</serenity.cucumber.version>
+        <cucumber.version>5.5.0</cucumber.version>
+        <logback.classic.version>1.2.3</logback.classic.version>
+        <assertJ.version>3.15.0</assertJ.version>
+        <encoding>UTF-8</encoding>
+        <parallel.tests>1</parallel.tests>
+        <tags></tags>
+        <webdriver.base.url></webdriver.base.url>
+    </properties>
 
 </project>
